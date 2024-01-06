@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MaynTechnologies</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="StyleSheet.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Mayntechnologies___Individual_Solution.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    @*browser tab icon*@
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEGsEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAREBEQEBABABAAEAAQEAEAERAQABEQAQAQABAAEAAREBEQERAQAAAAAAAAAAABAAEAAQEAAQEAARERAQARAQEBABABAQEBEREBABEBAQEQERABARABAQABABABAAEAAAAAAAAAAAAAAAAAAAAAD//wAA//8AANiKAADbugAA2LgAANu7AACIiwAA//8AAHddAABwWQAAVtUAAAWVAAAjTQAAdt0AAP//AAD//wAA" rel="icon" type="image/x-icon" />
+    <meta name="description" content="Mayn Technologies is a powerfull tool for automation and transparency in the finance sector." />
+    <meta name="keywords" content="Mayn Technologies, finace" />
+    <meta name="google-site-verification" content="7Lb9eFgE0QEjAPkKfuISEJWF_dCVScYqBpc6pJ3lqHM" />
+    <script type="application/ld+json">
+        {
+          "headline": "Mayn Technologies",
+          "description": "Mayn Technologies is a powerfull tool for technological advancement, automation, and transparency in the finance sector.",
+          "url": "https://www.mayntechnologies.com/",
+          "datePublished": "02-02-2023",
+        }
+    </script>
+
+    <script>
+
+        function myFunction() {
+            var popup = document.getElementById("myPopup");
+            popup.classList.toggle("show");
+        }
+
+    </script>
+
+    <style>
+
+
+        .header:hover {
+                background: linear-gradient(to right, #2C5234 10%, #a7a7a7 100%);
+                box-shadow: 0 3px 8px black;
+                opacity: 1;
+        }
+
+
+        #title {
+            color: white;
+            font-weight: 600;
+            background-color: rgba(0,0,0,0);
+            border: none;
+            font-size: 25px;
+        }
+
+        #slogan {
+            padding-top: 10px;
+            font-weight: 400;
+
+            font-size: 35px;
+        }
+
+        #title:hover {
+            text-underline-offset: 17px;
+            text-decoration: underline;
+            text-decoration-thickness: 1px;
+            cursor: pointer;
+        }
+
+        #header-buttons:hover {
+            text-underline-offset: 20px;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        #log-out-button {
+            border: none;
+            background: none;
+            padding-bottom: 7px;
+            padding-top: 7px;
+            margin-top: 1px;
+            text-decoration-color: #212529;
+            text-underline-offset: 25px;
+        }
+
+        .quote_div {
+            padding-top: 90px;
+            padding-bottom: 90px;
+            margin-bottom: 0px;
+            height: 100px;
+            margin: auto;
+            width: 100%;
+        }
+
+        .quote {
+            color: black;
+            font-size: 30px;
+            font-weight: bolder;
+            text-align: center;
+        }
+
+        .author {
+            text-align: center;
+            margin-top: 0px;
+        }
+
+        #Solution-opt:hover {
+            transition: all 0.4s;
+            font-size: 20px;
+        }
+
+        #Solution-div {
+            width: 37%;
+            box-shadow: 0px 0px 15px rgba(51, 58, 102, 0.4);
+            border-radius: 10px;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <header class="mobile">
+        <div class="header">
+            <div></div>
+            <div>
+                <a class="navbar-brand" id="title" asp-area="" asp-page="/Index">MaynTechnologies</a>
+            </div>
+            <div></div>
+
+            <div>
+
+            </div>
+            <div class="popup">
+                <button class="btn Button_B" onclick="myFunction()" style="margin-left:25%;"><i class="fa fa-bars"></i></button>
+                <span class="popuptext" id="myPopup" onmouseleave="myFunction()">
+                    <a class="nav-link text-dark" id="popup-buttons" asp-area="" asp-page="/Privacy">Privacy</a> <br>
+                    <a class="nav-link text-dark" id="popup-buttons" asp-area="" asp-page="/AboutUs">About Us</a> <br>
+                    <a class="nav-link text-dark" id="popup-buttons" asp-area="" asp-page="/Account/Register">Register</a> <br>
+                    <span class="text-center"><partial name="LoginStatusPartial" /></a></span>
+                </span>
+            </div>
+        </div>
+    </header>
+    
+
+
+    <header class="desktop">
+
+        <div class="header">
+            <div></div>
+            <div>
+                <a class="navbar-brand" id="title" asp-area="" asp-page="/Index">MaynTechnologies</a>
+            </div>
+            <div></div>
+
+            <div>
+                <a class="nav-link text-dark" id="header-buttons" asp-area="" asp-page="/Privacy">Privacy</a>
+            </div>
+            <div>
+                <a class="nav-link text-dark" id="header-buttons" asp-area="" asp-page="/AboutUs">About Us</a>
+            </div>
+            <div></div>
+            <div>
+                <a class="nav-link text-dark" id="header-buttons" asp-area="" asp-page="/Account/Register">Register</a>
+            </div>
+            <div class="mr-2">
+                <partial name="LoginStatusPartial" />
+            </div>
+        </div>
+
+    </header>
+
+
+    <div class="container" style="width: 100%; padding-top: 90px;">
+
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @*    <footer class="border-top footer text-muted pb-5">
+    <div class="container">
+    &copy; 2023 - MaynTechnologies - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+    </footer>*@
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

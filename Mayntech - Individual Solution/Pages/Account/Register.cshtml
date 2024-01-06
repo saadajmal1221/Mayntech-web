@@ -1,0 +1,76 @@
+﻿@page
+@model Mayntech___Individual_Solution.Pages.Account.RegisterModel
+@{
+}
+
+<div class="container border" style="padding:90px">
+    @if (Model.ErrorMsg.Length > 0)
+    {
+        <div class="alert alert-warning alert-dismissable fade show" role="alert" id="alert">
+            <strong>@Model.ErrorMsg</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    <form method="post">
+        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="registration.UserName"></label>
+            </div>
+            <div class="col-5">
+                <input type="text" asp-for="registration.UserName" class="form-control" />
+            </div>
+            <span class="text-danger" asp-validation-for="registration.UserName"></span>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="registration.Email"></label>
+            </div>
+            <div class="col-5">
+                <input type="text" asp-for="registration.Email" class="form-control" />
+            </div>
+            <span class="text-danger" asp-validation-for="registration.Email"></span>
+        </div>
+
+@*        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="registration.Country"></label>
+            </div>
+            <div class="col-5">
+                <input type="text" asp-for="registration.Country" class="form-control" />
+            </div>
+            <span class="text-danger" asp-validation-for="registration.Country"></span>
+        </div>*@
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="registration.Password"></label>
+            </div>
+            <div class="col-5">
+                <input type="password" asp-for="registration.Password" class="form-control" />
+            </div>
+            <span class="text-danger" asp-validation-for="registration.Password"></span>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="registration.ConfirmPassword"></label>
+            </div>
+            <div class="col-5">
+                <input type="password" asp-for="registration.ConfirmPassword" class="form-control" />
+            </div>
+            <span class="text-danger" asp-validation-for="registration.ConfirmPassword"></span>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-3">
+                <input type="submit" class="btn btn-secondary" value="Login" />
+            </div>
+            <div class="col-5">
+            </div>
+        </div>
+    </form>
+
+
+</div>

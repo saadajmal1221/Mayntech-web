@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "Mayntech___Individual_Solution": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MaynTechEnvironmentUriVault": "https://mayntechwebkv.vault.azure.net/",
+        "AZURE_USERNAME": "nuncio.henrique@gmail.com"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7037;https://localhost:5037"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MaynTechEnvironmentUriVault": "https://mayntechwebkv.vault.azure.net/",
+        "AZURE_USERNAME": "nuncio.henrique@gmail.com"
+      }
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:9038",
+      "sslPort": 44312
+    }
+  }
+}

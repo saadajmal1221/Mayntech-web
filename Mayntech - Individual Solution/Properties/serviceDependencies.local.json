@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "appConfig1": {
+      "ignored": "true",
+      "type": "appConfig.azure"
+    },
+    "mssql1": {
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mayntechdbserverdbserver/databases/MayntechDBServer",
+      "type": "mssql.azure",
+      "connectionId": "connectionString",
+      "dynamicId": null
+    },
+    "secrets2": {
+      "ignored": "true",
+      "type": "secrets.keyVault"
+    },
+    "secrets1": {
+      "secretStore": null,
+      "resourceId": null,
+      "type": "secrets.user",
+      "connectionId": null
+    },
+    "appInsights1": {
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/microsoft.insights/components/mayntech",
+      "type": "appInsights.azure",
+      "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+      "dynamicId": null
+    },
+    "mssql3": {
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mayntechdbserverdbserver/databases/MayntechDBServer",
+      "type": "mssql.azure",
+      "connectionId": "connectionString"
+    },
+    "mssql2": {
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mayntechdbserverdbserver/databases/MayntechDBServer",
+      "type": "mssql.azure",
+      "connectionId": "connectionString"
+    }
+  }
+}

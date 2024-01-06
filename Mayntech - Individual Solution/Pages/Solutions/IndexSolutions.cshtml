@@ -1,0 +1,44 @@
+﻿@page
+@model Mayntech___Individual_Solution.Pages.Solutions.IndexSolutionsModel
+@{
+}
+
+
+<div class="text-center">
+    <h2 class="display-5" id="slogan"> Reintroducing Value </h2>
+</div>
+<br />
+<div class="text-left">
+    <a class="nav-link text-dark" id="Solution-opt" asp-area="" asp-page="Solutions/IndexSolutions"> </a>
+    <p>As the number of retail investors continues to grow around the world, our goal is to provide these individuals with the necessary tools to make informed investment decisions based on their own assumptions and research. By empowering retail investors to make value-based investments, we aim to contribute to a healthier economic landscape in which the prices of securities are more closely aligned with their intrinsic value, thus promoting stability and fairness in the overall financial system.</p>
+</div>
+
+
+<br />
+<br />
+<br />
+<br />
+
+<div @*style="background-color: darkgrey; width: 100%;"*@>
+    <div class="text-center" style="margin-bottom: 45px;">
+        <h1 class="display-4" id="slogan">Our Solutions</h1>
+    </div>
+
+
+
+    <div class="row" style="padding-bottom:100px;">
+        <div style="width:10%;"></div>
+        <div class="col-sm-3 text-center" id="Solution-div">
+            <a class="nav-link text-dark" id="Solution-opt" asp-area="" asp-page="/Solutions/Solution">Analysis </a>
+            <p>A cutting-edge financial analysis tool that leverages artificial intelligence to identify potential anomalies in a company's financial statements.</p>
+            <button style="border: none"><a class="nav-link text-dark" asp-area="" asp-page="/Solutions/Solution">Select</a></button>
+        </div>
+        <div style="width:6%;"></div>
+        <div class="col-sm-3 text-center" id="Solution-div">
+            <a class="nav-link text-dark" id="Solution-opt" asp-area="" asp-page="/Solutions/Valuation">Valuation </a>
+            <p>A tool that enables users to calculate the estimated worth of a company by integrating both discounted cash flow (based on user inputs) and multiples valuation.</p>
+            <button style="border: none"><a class="nav-link text-dark" asp-area="" asp-page="/Solutions/Solution">Select</a></button>
+        </div>
+        <div style="width:10%;"></div>
+    </div>
+</div>

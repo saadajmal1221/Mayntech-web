@@ -1,0 +1,19 @@
+{
+  [
+    {
+      "Region": "Developed Europe",
+      "MarketRiskPremium": "7.45"
+    },
+    {
+      "Region": "Japan",
+      "MarketRiskPremium": "7.16"
+    },
+    {
+      "Region": "United States",
+      "MarketRiskPremium": "5.94"
+    },
+    {
+      "Region": "Australia, NZ and Canada",
+      "MarketRiskPremium": "5.94"
+    }
+  ]

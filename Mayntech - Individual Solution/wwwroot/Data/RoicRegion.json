@@ -1,0 +1,2882 @@
+[
+  {
+    "Region": "United States",
+    "IndustryName": "Advertising",
+    "ROICwithoutleases": "94",
+    "ROICwithleases": "44"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Aerospace/Defense",
+    "ROICwithoutleases": "22",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Air Transport",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Apparel",
+    "ROICwithoutleases": "26",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Auto & Truck",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Auto Parts",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Bank (Money Center)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Banks (Regional)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Beverage (Alcoholic)",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Beverage (Soft)",
+    "ROICwithoutleases": "31",
+    "ROICwithleases": "29"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Broadcasting",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Brokerage & Investment Banking",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Building Materials",
+    "ROICwithoutleases": "40",
+    "ROICwithleases": "38"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Business & Consumer Services",
+    "ROICwithoutleases": "30",
+    "ROICwithleases": "26"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Cable TV",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Chemical (Basic)",
+    "ROICwithoutleases": "28",
+    "ROICwithleases": "27"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Chemical (Diversified)",
+    "ROICwithoutleases": "23",
+    "ROICwithleases": "22"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Chemical (Specialty)",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "19"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Coal & Related Energy",
+    "ROICwithoutleases": "44",
+    "ROICwithleases": "42"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Computer Services",
+    "ROICwithoutleases": "48",
+    "ROICwithleases": "40"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Computers/Peripherals",
+    "ROICwithoutleases": "70",
+    "ROICwithleases": "65"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Construction Supplies",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Diversified",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Drugs (Biotechnology)",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Drugs (Pharmaceutical)",
+    "ROICwithoutleases": "35",
+    "ROICwithleases": "34"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Education",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Electrical Equipment",
+    "ROICwithoutleases": "22",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Electronics (Consumer & Office)",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Electronics (General)",
+    "ROICwithoutleases": "25",
+    "ROICwithleases": "23"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Engineering/Construction",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Entertainment",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Environmental & Waste Services",
+    "ROICwithoutleases": "31",
+    "ROICwithleases": "28"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Farming/Agriculture",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Financial Svcs. (Non-bank & Insurance)",
+    "ROICwithoutleases": "1",
+    "ROICwithleases": "1"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Food Processing",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "19"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Food Wholesalers",
+    "ROICwithoutleases": "18",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Furn/Home Furnishings",
+    "ROICwithoutleases": "19",
+    "ROICwithleases": "17"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Green & Renewable Energy",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Healthcare Products",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Healthcare Support Services",
+    "ROICwithoutleases": "43",
+    "ROICwithleases": "34"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Heathcare Information and Technology",
+    "ROICwithoutleases": "25",
+    "ROICwithleases": "23"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Homebuilding",
+    "ROICwithoutleases": "29",
+    "ROICwithleases": "28"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Hospitals/Healthcare Facilities",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Hotel/Gaming",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Household Products",
+    "ROICwithoutleases": "43",
+    "ROICwithleases": "39"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Information Services",
+    "ROICwithoutleases": "40",
+    "ROICwithleases": "38"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Insurance (General)",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "19"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Insurance (Life)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Insurance (Prop/Cas.)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Investments & Asset Management",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Machinery",
+    "ROICwithoutleases": "33",
+    "ROICwithleases": "31"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Metals & Mining",
+    "ROICwithoutleases": "36",
+    "ROICwithleases": "35"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Office Equipment & Services",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Oil/Gas (Integrated)",
+    "ROICwithoutleases": "23",
+    "ROICwithleases": "23"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Oil/Gas (Production and Exploration)",
+    "ROICwithoutleases": "41",
+    "ROICwithleases": "40"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Oil/Gas Distribution",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Oilfield Svcs/Equip.",
+    "ROICwithoutleases": "30",
+    "ROICwithleases": "29"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Packaging & Container",
+    "ROICwithoutleases": "17",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Paper/Forest Products",
+    "ROICwithoutleases": "44",
+    "ROICwithleases": "43"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Power",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Precious Metals",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Publishing & Newspapers",
+    "ROICwithoutleases": "19",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "R.E.I.T.",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Real Estate (Development)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Real Estate (General/Diversified)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Real Estate (Operations & Services)",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "1"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Recreation",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Reinsurance",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Restaurant/Dining",
+    "ROICwithoutleases": "46",
+    "ROICwithleases": "18"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Retail (Automotive)",
+    "ROICwithoutleases": "22",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Retail (Building Supply)",
+    "ROICwithoutleases": "67",
+    "ROICwithleases": "50"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Retail (Distributors)",
+    "ROICwithoutleases": "23",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Retail (General)",
+    "ROICwithoutleases": "25",
+    "ROICwithleases": "18"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Retail (Grocery and Food)",
+    "ROICwithoutleases": "22",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Retail (Online)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Retail (Special Lines)",
+    "ROICwithoutleases": "34",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Rubber& Tires",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Semiconductor",
+    "ROICwithoutleases": "28",
+    "ROICwithleases": "27"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Semiconductor Equip",
+    "ROICwithoutleases": "64",
+    "ROICwithleases": "61"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Shipbuilding & Marine",
+    "ROICwithoutleases": "30",
+    "ROICwithleases": "29"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Shoe",
+    "ROICwithoutleases": "42",
+    "ROICwithleases": "34"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Software (Entertainment)",
+    "ROICwithoutleases": "34",
+    "ROICwithleases": "31"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Software (Internet)",
+    "ROICwithoutleases": "-6",
+    "ROICwithleases": "-5"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Software (System & Application)",
+    "ROICwithoutleases": "44",
+    "ROICwithleases": "39"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Steel",
+    "ROICwithoutleases": "50",
+    "ROICwithleases": "49"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Telecom (Wireless)",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Telecom. Equipment",
+    "ROICwithoutleases": "62",
+    "ROICwithleases": "57"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Telecom. Services",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Tobacco",
+    "ROICwithoutleases": "77",
+    "ROICwithleases": "76"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Transportation",
+    "ROICwithoutleases": "32",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Transportation (Railroads)",
+    "ROICwithoutleases": "18",
+    "ROICwithleases": "17"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Trucking",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Utility (General)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Utility (Water)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Total Market",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "United States",
+    "IndustryName": "Total Market (without financials)",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "18"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Advertising",
+    "ROICwithoutleases": "25",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Aerospace/Defense",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Air Transport",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Apparel",
+    "ROICwithoutleases": "34",
+    "ROICwithleases": "33"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Auto & Truck",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Auto Parts",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Bank (Money Center)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Banks (Regional)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Beverage (Alcoholic)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Beverage (Soft)",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Broadcasting",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Brokerage & Investment Banking",
+    "ROICwithoutleases": "1",
+    "ROICwithleases": "1"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Building Materials",
+    "ROICwithoutleases": "26",
+    "ROICwithleases": "26"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Business & Consumer Services",
+    "ROICwithoutleases": "25",
+    "ROICwithleases": "25"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Cable TV",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Chemical (Basic)",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Chemical (Diversified)",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Chemical (Specialty)",
+    "ROICwithoutleases": "17",
+    "ROICwithleases": "17"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Coal & Related Energy",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Computer Services",
+    "ROICwithoutleases": "56",
+    "ROICwithleases": "50"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Computers/Peripherals",
+    "ROICwithoutleases": "27",
+    "ROICwithleases": "27"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Construction Supplies",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Diversified",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Drugs (Biotechnology)",
+    "ROICwithoutleases": "-19",
+    "ROICwithleases": "-19"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Drugs (Pharmaceutical)",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Education",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Electrical Equipment",
+    "ROICwithoutleases": "22",
+    "ROICwithleases": "22"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Electronics (Consumer & Office)",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "19"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Electronics (General)",
+    "ROICwithoutleases": "18",
+    "ROICwithleases": "17"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Engineering/Construction",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Entertainment",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Environmental & Waste Services",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Farming/Agriculture",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Financial Svcs. (Non-bank & Insurance)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Food Processing",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Food Wholesalers",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Furn/Home Furnishings",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Green & Renewable Energy",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Healthcare Products",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Healthcare Support Services",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Heathcare Information and Technology",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Homebuilding",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Hospitals/Healthcare Facilities",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Hotel/Gaming",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Household Products",
+    "ROICwithoutleases": "28",
+    "ROICwithleases": "28"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Information Services",
+    "ROICwithoutleases": "26",
+    "ROICwithleases": "26"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Insurance (General)",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Insurance (Life)",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Insurance (Prop/Cas.)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Investments & Asset Management",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Machinery",
+    "ROICwithoutleases": "18",
+    "ROICwithleases": "18"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Metals & Mining",
+    "ROICwithoutleases": "33",
+    "ROICwithleases": "33"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Office Equipment & Services",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Oil/Gas (Integrated)",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Oil/Gas (Production and Exploration)",
+    "ROICwithoutleases": "39",
+    "ROICwithleases": "39"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Oil/Gas Distribution",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Oilfield Svcs/Equip.",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Packaging & Container",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Paper/Forest Products",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Power",
+    "ROICwithoutleases": "-12",
+    "ROICwithleases": "-12"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Precious Metals",
+    "ROICwithoutleases": "17",
+    "ROICwithleases": "17"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Publishing & Newspapers",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "R.E.I.T.",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Real Estate (Development)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Real Estate (General/Diversified)",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Real Estate (Operations & Services)",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Recreation",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Reinsurance",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Restaurant/Dining",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Retail (Automotive)",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Retail (Building Supply)",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Retail (Distributors)",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Retail (General)",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Retail (Grocery and Food)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Retail (Online)",
+    "ROICwithoutleases": "-5",
+    "ROICwithleases": "-5"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Retail (Special Lines)",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Rubber& Tires",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Semiconductor",
+    "ROICwithoutleases": "32",
+    "ROICwithleases": "32"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Semiconductor Equip",
+    "ROICwithoutleases": "49",
+    "ROICwithleases": "48"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Shipbuilding & Marine",
+    "ROICwithoutleases": "53",
+    "ROICwithleases": "53"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Shoe",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Software (Entertainment)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Software (Internet)",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Software (System & Application)",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Steel",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Telecom (Wireless)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Telecom. Equipment",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Telecom. Services",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Tobacco",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Transportation",
+    "ROICwithoutleases": "17",
+    "ROICwithleases": "17"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Transportation (Railroads)",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Trucking",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Utility (General)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Utility (Water)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Total Market",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Developed Europe",
+    "IndustryName": "Total Market (without financials)",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Advertising",
+    "ROICwithoutleases": "32",
+    "ROICwithleases": "32"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Aerospace/Defense",
+    "ROICwithoutleases": "-1",
+    "ROICwithleases": "-1"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Air Transport",
+    "ROICwithoutleases": "-4",
+    "ROICwithleases": "-3"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Apparel",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Auto & Truck",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Auto Parts",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Bank (Money Center)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Banks (Regional)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Beverage (Alcoholic)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Beverage (Soft)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Broadcasting",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Brokerage & Investment Banking",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Building Materials",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Business & Consumer Services",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Cable TV",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Chemical (Basic)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Chemical (Diversified)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Chemical (Specialty)",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Coal & Related Energy",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Computer Services",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Computers/Peripherals",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Construction Supplies",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Diversified",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Drugs (Biotechnology)",
+    "ROICwithoutleases": "-23",
+    "ROICwithleases": "-23"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Drugs (Pharmaceutical)",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Education",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Electrical Equipment",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Electronics (Consumer & Office)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Electronics (General)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Engineering/Construction",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Entertainment",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "23"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Environmental & Waste Services",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Farming/Agriculture",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Financial Svcs. (Non-bank & Insurance)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Food Processing",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Food Wholesalers",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Furn/Home Furnishings",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Green & Renewable Energy",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Healthcare Products",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Healthcare Support Services",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Heathcare Information and Technology",
+    "ROICwithoutleases": "32",
+    "ROICwithleases": "32"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Homebuilding",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Hospitals/Healthcare Facilities",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Hotel/Gaming",
+    "ROICwithoutleases": "-2",
+    "ROICwithleases": "-2"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Household Products",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Information Services",
+    "ROICwithoutleases": "22",
+    "ROICwithleases": "22"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Insurance (General)",
+    "ROICwithoutleases": "44",
+    "ROICwithleases": "44"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Insurance (Life)",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Insurance (Prop/Cas.)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Investments & Asset Management",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Machinery",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Metals & Mining",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Office Equipment & Services",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Oil/Gas (Integrated)",
+    "ROICwithoutleases": "NA",
+    "ROICwithleases": "NA"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Oil/Gas (Production and Exploration)",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Oil/Gas Distribution",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Oilfield Svcs/Equip.",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Packaging & Container",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Paper/Forest Products",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Power",
+    "ROICwithoutleases": "-1",
+    "ROICwithleases": "-1"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Precious Metals",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Publishing & Newspapers",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "R.E.I.T.",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Real Estate (Development)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Real Estate (General/Diversified)",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Real Estate (Operations & Services)",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Recreation",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Reinsurance",
+    "ROICwithoutleases": "NA",
+    "ROICwithleases": "NA"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Restaurant/Dining",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Retail (Automotive)",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Retail (Building Supply)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Retail (Distributors)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Retail (General)",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Retail (Grocery and Food)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Retail (Online)",
+    "ROICwithoutleases": "-51",
+    "ROICwithleases": "-42"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Retail (Special Lines)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Rubber& Tires",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Semiconductor",
+    "ROICwithoutleases": "26",
+    "ROICwithleases": "26"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Semiconductor Equip",
+    "ROICwithoutleases": "33",
+    "ROICwithleases": "33"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Shipbuilding & Marine",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Shoe",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Software (Entertainment)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Software (Internet)",
+    "ROICwithoutleases": "35",
+    "ROICwithleases": "35"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Software (System & Application)",
+    "ROICwithoutleases": "28",
+    "ROICwithleases": "28"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Steel",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Telecom (Wireless)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Telecom. Equipment",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Telecom. Services",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Tobacco",
+    "ROICwithoutleases": "31",
+    "ROICwithleases": "31"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Transportation",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Transportation (Railroads)",
+    "ROICwithoutleases": "1",
+    "ROICwithleases": "1"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Trucking",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Utility (General)",
+    "ROICwithoutleases": "NA",
+    "ROICwithleases": "NA"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Utility (Water)",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Total Market",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Japan",
+    "IndustryName": "Total Market (without financials)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Advertising",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Aerospace/Defense",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Air Transport",
+    "ROICwithoutleases": "-7",
+    "ROICwithleases": "-7"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Apparel",
+    "ROICwithoutleases": "50",
+    "ROICwithleases": "43"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Auto & Truck",
+    "ROICwithoutleases": "-189",
+    "ROICwithleases": "-119"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Auto Parts",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Bank (Money Center)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Banks (Regional)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Beverage (Alcoholic)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Beverage (Soft)",
+    "ROICwithoutleases": "-85",
+    "ROICwithleases": "-85"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Broadcasting",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Brokerage & Investment Banking",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Building Materials",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Business & Consumer Services",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Cable TV",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Chemical (Basic)",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Chemical (Diversified)",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Chemical (Specialty)",
+    "ROICwithoutleases": "37",
+    "ROICwithleases": "37"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Coal & Related Energy",
+    "ROICwithoutleases": "32",
+    "ROICwithleases": "32"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Computer Services",
+    "ROICwithoutleases": "88",
+    "ROICwithleases": "88"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Computers/Peripherals",
+    "ROICwithoutleases": "-233",
+    "ROICwithleases": "-233"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Construction Supplies",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Diversified",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Drugs (Biotechnology)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Drugs (Pharmaceutical)",
+    "ROICwithoutleases": "-4",
+    "ROICwithleases": "-4"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Education",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Electrical Equipment",
+    "ROICwithoutleases": "-61",
+    "ROICwithleases": "-58"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Electronics (Consumer & Office)",
+    "ROICwithoutleases": "-55",
+    "ROICwithleases": "-55"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Electronics (General)",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Engineering/Construction",
+    "ROICwithoutleases": "19",
+    "ROICwithleases": "18"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Entertainment",
+    "ROICwithoutleases": "-3",
+    "ROICwithleases": "-3"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Environmental & Waste Services",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Farming/Agriculture",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Financial Svcs. (Non-bank & Insurance)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Food Processing",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Food Wholesalers",
+    "ROICwithoutleases": "25",
+    "ROICwithleases": "25"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Furn/Home Furnishings",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Green & Renewable Energy",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Healthcare Products",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Healthcare Support Services",
+    "ROICwithoutleases": "35",
+    "ROICwithleases": "35"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Heathcare Information and Technology",
+    "ROICwithoutleases": "31",
+    "ROICwithleases": "29"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Homebuilding",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Hospitals/Healthcare Facilities",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Hotel/Gaming",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Household Products",
+    "ROICwithoutleases": "-7",
+    "ROICwithleases": "-7"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Information Services",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Insurance (General)",
+    "ROICwithoutleases": "35",
+    "ROICwithleases": "48"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Insurance (Life)",
+    "ROICwithoutleases": "14",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Insurance (Prop/Cas.)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Investments & Asset Management",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Machinery",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Metals & Mining",
+    "ROICwithoutleases": "31",
+    "ROICwithleases": "31"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Office Equipment & Services",
+    "ROICwithoutleases": "-59",
+    "ROICwithleases": "-59"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Oil/Gas (Integrated)",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Oil/Gas (Production and Exploration)",
+    "ROICwithoutleases": "29",
+    "ROICwithleases": "29"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Oil/Gas Distribution",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Oilfield Svcs/Equip.",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Packaging & Container",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Paper/Forest Products",
+    "ROICwithoutleases": "35",
+    "ROICwithleases": "35"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Power",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Precious Metals",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Publishing & Newspapers",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "R.E.I.T.",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Real Estate (Development)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Real Estate (General/Diversified)",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Real Estate (Operations & Services)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Recreation",
+    "ROICwithoutleases": "34",
+    "ROICwithleases": "34"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Reinsurance",
+    "ROICwithoutleases": "NA",
+    "ROICwithleases": "NA"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Restaurant/Dining",
+    "ROICwithoutleases": "18",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Retail (Automotive)",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Retail (Building Supply)",
+    "ROICwithoutleases": "24",
+    "ROICwithleases": "24"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Retail (Distributors)",
+    "ROICwithoutleases": "20",
+    "ROICwithleases": "20"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Retail (General)",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Retail (Grocery and Food)",
+    "ROICwithoutleases": "19",
+    "ROICwithleases": "19"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Retail (Online)",
+    "ROICwithoutleases": "-81",
+    "ROICwithleases": "-81"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Retail (Special Lines)",
+    "ROICwithoutleases": "23",
+    "ROICwithleases": "22"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Rubber& Tires",
+    "ROICwithoutleases": "NA",
+    "ROICwithleases": "NA"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Semiconductor",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Semiconductor Equip",
+    "ROICwithoutleases": "-122",
+    "ROICwithleases": "-122"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Shipbuilding & Marine",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Shoe",
+    "ROICwithoutleases": "NA",
+    "ROICwithleases": "NA"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Software (Entertainment)",
+    "ROICwithoutleases": "27",
+    "ROICwithleases": "27"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Software (Internet)",
+    "ROICwithoutleases": "-4",
+    "ROICwithleases": "-4"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Software (System & Application)",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Steel",
+    "ROICwithoutleases": "53",
+    "ROICwithleases": "53"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Telecom (Wireless)",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Telecom. Equipment",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Telecom. Services",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Tobacco",
+    "ROICwithoutleases": "-65",
+    "ROICwithleases": "-65"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Transportation",
+    "ROICwithoutleases": "19",
+    "ROICwithleases": "19"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Transportation (Railroads)",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "14"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Trucking",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Utility (General)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Utility (Water)",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Total Market",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Australia, NZ and Canada",
+    "IndustryName": "Total Market (without financials)",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Advertising",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Aerospace/Defense",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Air Transport",
+    "ROICwithoutleases": "-1",
+    "ROICwithleases": "-1"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Apparel",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Auto & Truck",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Auto Parts",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Bank (Money Center)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Banks (Regional)",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Beverage (Alcoholic)",
+    "ROICwithoutleases": "31",
+    "ROICwithleases": "31"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Beverage (Soft)",
+    "ROICwithoutleases": "26",
+    "ROICwithleases": "26"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Broadcasting",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Brokerage & Investment Banking",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Building Materials",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Business & Consumer Services",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Cable TV",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Chemical (Basic)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Chemical (Diversified)",
+    "ROICwithoutleases": "15",
+    "ROICwithleases": "15"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Chemical (Specialty)",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Coal & Related Energy",
+    "ROICwithoutleases": "37",
+    "ROICwithleases": "37"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Computer Services",
+    "ROICwithoutleases": "18",
+    "ROICwithleases": "18"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Computers/Peripherals",
+    "ROICwithoutleases": "13",
+    "ROICwithleases": "13"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Construction Supplies",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Diversified",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Drugs (Biotechnology)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Drugs (Pharmaceutical)",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Education",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Electrical Equipment",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Electronics (Consumer & Office)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Electronics (General)",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Engineering/Construction",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Entertainment",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Environmental & Waste Services",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Farming/Agriculture",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Financial Svcs. (Non-bank & Insurance)",
+    "ROICwithoutleases": "1",
+    "ROICwithleases": "1"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Food Processing",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Food Wholesalers",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Furn/Home Furnishings",
+    "ROICwithoutleases": "22",
+    "ROICwithleases": "22"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Green & Renewable Energy",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Healthcare Products",
+    "ROICwithoutleases": "25",
+    "ROICwithleases": "25"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Healthcare Support Services",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Heathcare Information and Technology",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Homebuilding",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Hospitals/Healthcare Facilities",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Hotel/Gaming",
+    "ROICwithoutleases": "0",
+    "ROICwithleases": "0"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Household Products",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Information Services",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "16"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Insurance (General)",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Insurance (Life)",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Insurance (Prop/Cas.)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Investments & Asset Management",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Machinery",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Metals & Mining",
+    "ROICwithoutleases": "16",
+    "ROICwithleases": "17"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Office Equipment & Services",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Oil/Gas (Integrated)",
+    "ROICwithoutleases": "33",
+    "ROICwithleases": "33"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Oil/Gas (Production and Exploration)",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Oil/Gas Distribution",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Oilfield Svcs/Equip.",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Packaging & Container",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Paper/Forest Products",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Power",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Precious Metals",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Publishing & Newspapers",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "R.E.I.T.",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Real Estate (Development)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Real Estate (General/Diversified)",
+    "ROICwithoutleases": "3",
+    "ROICwithleases": "3"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Real Estate (Operations & Services)",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Recreation",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Reinsurance",
+    "ROICwithoutleases": "-2",
+    "ROICwithleases": "-2"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Restaurant/Dining",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Retail (Automotive)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Retail (Building Supply)",
+    "ROICwithoutleases": "11",
+    "ROICwithleases": "11"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Retail (Distributors)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Retail (General)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Retail (Grocery and Food)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Retail (Online)",
+    "ROICwithoutleases": "-6",
+    "ROICwithleases": "-6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Retail (Special Lines)",
+    "ROICwithoutleases": "7",
+    "ROICwithleases": "7"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Rubber& Tires",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Semiconductor",
+    "ROICwithoutleases": "23",
+    "ROICwithleases": "23"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Semiconductor Equip",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Shipbuilding & Marine",
+    "ROICwithoutleases": "34",
+    "ROICwithleases": "33"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Shoe",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Software (Entertainment)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Software (Internet)",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Software (System & Application)",
+    "ROICwithoutleases": "2",
+    "ROICwithleases": "2"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Steel",
+    "ROICwithoutleases": "12",
+    "ROICwithleases": "12"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Telecom (Wireless)",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Telecom. Equipment",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Telecom. Services",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Tobacco",
+    "ROICwithoutleases": "21",
+    "ROICwithleases": "21"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Transportation",
+    "ROICwithoutleases": "8",
+    "ROICwithleases": "8"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Transportation (Railroads)",
+    "ROICwithoutleases": "5",
+    "ROICwithleases": "5"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Trucking",
+    "ROICwithoutleases": "4",
+    "ROICwithleases": "4"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Utility (General)",
+    "ROICwithoutleases": "9",
+    "ROICwithleases": "9"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Utility (Water)",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Total Market",
+    "ROICwithoutleases": "6",
+    "ROICwithleases": "6"
+  },
+  {
+    "Region": "Emerging Markets",
+    "IndustryName": "Total Market (without financials)",
+    "ROICwithoutleases": "10",
+    "ROICwithleases": "10"
+  }
+]

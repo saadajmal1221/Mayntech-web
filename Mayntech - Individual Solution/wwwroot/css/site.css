@@ -1,0 +1,143 @@
+html {
+  font-size: 14px;
+}
+
+@media (max-width: 576px) {
+    .larg
+
+{
+    width: 70px;
+}
+
+}
+
+
+@media (min-width: 768px) {
+    html {
+    font-size: 16px;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .desktop {
+        display: none;
+    }
+
+    .mobile {
+        display: initial;
+    }
+}
+    html {
+        font-size: 16px;
+    }
+
+.header {
+    display: grid;
+    grid-template-columns: 1fr 250px 4fr 0.7fr 105px 0.1fr 0.7fr 0.7fr 0.5fr;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    opacity: 0.95;
+    background: linear-gradient(to right, #2C5234 10%, #a7a7a7 100%);
+    transition: all 0.4s;
+    position: fixed;
+    width: 100%;
+}
+
+
+#popup-buttons,
+#log-out-button,
+#Solution-opt,
+#header-buttons {
+    font-weight: bold;
+}
+
+
+
+.btn {
+    box-shadow: none !important;
+}
+
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+    .popup .popuptext {
+        visibility: hidden;
+        width: 150px;
+        background: linear-gradient(to right, #819486 0%, #a7a7a7 100%);
+        color: #fff;
+        text-align: center;
+        position: absolute;
+        z-index: 1;
+        padding-top: 8px;
+        top: 40px;
+        left: 50%;
+        margin-left: -80px;
+        border-radius: 2px;
+        box-shadow: -3px 6px 4px rgba(0, 0, 0, 0.5);
+        line-height: 1.5;
+    }
+
+        .popup .popuptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 100%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+        }
+
+    /* Toggle this class - hide and show the popup */
+
+    .popup .show {
+        visibility: visible;
+        -webkit-animation: fadeIn 0.7s;
+        animation: fadeIn 0.7s;
+    }
+
+
+    .popup #b1:hover + .popuptext {
+        visibility: visible;
+        opacity: 1;
+    }
+
+.mobile {
+    display: block;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}

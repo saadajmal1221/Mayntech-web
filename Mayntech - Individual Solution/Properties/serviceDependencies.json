@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "MaynTech"
+    },
+    "secrets1": {
+      "type": "secrets",
+      "connectionId": null
+    },
+    "appInsights1": {
+      "type": "appInsights",
+      "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+      "dynamicId": null
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "connectionString"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "connectionString"
+    }
+  }
+}

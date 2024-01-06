@@ -1,0 +1,91 @@
+﻿@page
+@model Mayntech___Individual_Solution.Pages.Account.LoginModel
+@{
+}
+
+@*<script src="https://apis.google.com/js/platform.js" async defer></script>*@
+
+<head>
+    <meta name="google-signin-scope" content="profile email">
+    <meta name="google-signin-client_id" content="125997961743-k2fdl9l4dh26fpf0qo35tb1md291bdlb.apps.googleusercontent.com">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+</head>
+
+<script>
+    function onSignIn(googleUser) {
+        // Useful data for your client-side scripts:
+        var profile = googleUser.getBasicProfile();
+        console.log("ID: " + profile.getId()); // Don't send this directly to your server!
+        console.log('Full Name: ' + profile.getName());
+        console.log('Given Name: ' + profile.getGivenName());
+        console.log('Family Name: ' + profile.getFamilyName());
+        console.log("Image URL: " + profile.getImageUrl()); 
+        console.log("Email: " + profile.getEmail());
+
+        // The ID token you need to pass to your backend:
+        var id_token = googleUser.getAuthResponse().id_token;
+        console.log("ID Token: " + id_token);
+    }
+
+
+</script>
+
+<script>
+    const button = document.getElementById(‘signout_button’);
+    button.onclick = () => {
+        google.accounts.id.disableAutoSelect();
+    }
+</script>
+
+<body>
+    <div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>
+</body>
+<div class="form-group row">
+    <div class="col-2"></div>
+    <div class="col-10" style="padding-top:90px">
+        <form method="post">
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <div class="form-group row">
+                <div>
+                    <label asp-for="credential.Username"></label>
+                </div>
+                <div class="col-6">
+                    <input type="text" asp-for="credential.Username" class="form-control" />
+                </div>
+                <span class="text-danger" asp-validation-for="credential.Username"></span>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div>
+                    <label asp-for="credential.Password"></label>
+                </div>
+                <div class="col-6">
+                    <input type="password" asp-for="credential.Password" class="form-control" />
+                </div>
+                <span class="text-danger" asp-validation-for="credential.Password"></span>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div></div>
+                <div class="col-2 larg">
+                    <input type="submit" class="btn btn-secondary" value="Login" />
+                </div>
+                <div class="col-6">
+                    <p>
+                        Don't have an account? <a asp-area="" asp-page="/Account/Register">Register here</a>
+                    </p>
+                </div>
+            </div>
+            <div class="g-signin2" data-onsuccess="onSignIn">Sign in</div>
+  
+        </form>
+    </div>
+    
+    
+</div>
+
+
+
+
+
+
